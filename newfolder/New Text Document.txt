@@ -1,0 +1,31 @@
+done,  0
+done,  500
+done,  1000
+done,  1500
+Model saved in path: {} saved_models/
+Epoch 1/5, train_cost = 6.008, train_ler = 0.000, time = 2116.888, finished_time = 1522516951.53546
+done,  0
+done,  500
+done,  1000
+done,  1500
+Model saved in path: {} saved_models/
+Epoch 2/5, train_cost = 3.335, train_ler = 0.000, time = 2150.950, finished_time = 1522519102.4857142
+done,  0
+done,  500
+done,  1000
+done,  1500
+Model saved in path: {} saved_models/
+Epoch 3/5, train_cost = 2.805, train_ler = 0.000, time = 2083.206, finished_time = 1522521185.6912324
+done,  0
+done,  500
+done,  1000
+done,  1500
+Model saved in path: {} saved_models/
+Epoch 4/5, train_cost = 2.607, train_ler = 0.000, time = 2138.941, finished_time = 1522523324.6326652
+done,  0
+done,  500
+done,  1000
+done,  1500
+Model saved in path: {} saved_models/
+Epoch 5/5, train_cost = 2.562, train_ler = 0.000, time = 2095.728, finished_time = 1522525420.3607693
+Wall time: 2h 56min 26s
